@@ -8,3 +8,5 @@ dist/
 
 lib-cov
 coverage
+
+package-lock.json
